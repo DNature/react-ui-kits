@@ -11,6 +11,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Bumbag](https://github.com/bigbellies/bumbag) | [Docs](https://bumbag.io/) |
 | [Blueprint](https://github.com/palantir/blueprint) | [Docs](https://blueprintjs.com) |
 | [Carbon Components React](https://github.com/IBM/carbon-components-react) | [Docs](http://react.carbondesignsystem.com/) |
+| [Chakra UI](https://github.com/chakra-ui/chakra-ui) | [Docs](http://chakra-ui.com/) |
 | [Elemental UI](https://github.com/elementalui/elemental) | [Docs](http://elemental-ui.com) |
 | [Essence](https://github.com/Evo-Forge/Essence) | [Docs](http://getessence.io/) |
 | [Evergreen](https://github.com/segmentio/evergreen) | [Docs](https://evergreen.surge.sh/) |
@@ -19,6 +20,7 @@ A list of UI Kits available for [React](http://facebook.github.io/react/) and [R
 | [Grommet](https://github.com/grommet/grommet) | [Docs](https://grommet.io) |
 | [Material-UI](https://github.com/mui-org/material-ui) | [Docs](http://www.material-ui.com/) |
 | [Material Components Web](https://github.com/material-components/material-components-web/) | [Docs](https://material.io/develop/web/) |
+| [Nature UI](https://github.com/nature-ui/nature-ui/) | [Docs](https://nature-ui.com/) |
 | [Onsen UI](https://github.com/OnsenUI/OnsenUI) | [Docs](https://onsen.io/react/) |
 | [PrimeReact](https://github.com/primefaces/primereact) | [Docs](https://www.primefaces.org/primereact) |
 | [Primer React](https://github.com/primer/components) | [Docs](https://primer.style/components) |
